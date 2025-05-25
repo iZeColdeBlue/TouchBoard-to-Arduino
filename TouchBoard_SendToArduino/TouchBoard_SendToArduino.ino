@@ -1,3 +1,8 @@
+/* 
+This code needs to be uploaded to the touchboard, in order to send data through the TX pin.
+You can do this, using th ArduinoIDE.
+*/
+
 #include <Wire.h>
 #include <MPR121.h>
 #include <SoftwareSerial.h>
