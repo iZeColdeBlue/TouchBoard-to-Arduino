@@ -1,2 +1,2 @@
-#define SECRET_SSID "GenWaveAP"
-#define SECRET_PASS "S3ymurCantCod3"
+#define SECRET_SSID "{[NameOfYourWiFi-SSID]}"
+#define SECRET_PASS "{[YourWiFiPassword]}"
